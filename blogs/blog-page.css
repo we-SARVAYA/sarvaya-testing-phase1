@@ -48,7 +48,9 @@ body{
     width: 100%;
 }
 .blog-box-right p{
-    line-height: 20px;
+    line-height: 22px;
+    font-size: 20px;
+    font-weight: 100;
 }
 .blog-box-right button{
     width: 100%;
